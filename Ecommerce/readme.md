@@ -68,3 +68,12 @@ Welcome to the E-Commerce Application project! 🚀 This project involves buildi
 
 - Created a reusable Card Component with props for product details.
 - Designed the Homepage layout using a grid or flexbox to display multiple product cards.
+
+### Milestone 9: Product Form with Multiple Image Uploads
+
+- This project demonstrates how to create a form for uploading products, including the functionality to upload multiple product images. - It serves as a foundation for understanding the basics of product creation and allows room for experimentation with additional features such as admin access or shop profiles.
+
+### Milestone 10: Product Data Management with Mongoose
+
+- This project demonstrates the basics of creating and managing product data using Mongoose. 
+- It includes defining a structured schema, validating inputs, and saving data to a MongoDB database via an API endpoint.
